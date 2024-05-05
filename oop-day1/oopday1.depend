@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1671569392 source:c:\users\iti\documents\oopday1\string.c
+	"string.h"
+	<stdlib.h>
+	<conio.h>
+
+1671569431 c:\users\iti\documents\oopday1\string.h
+
+1671571946 source:c:\users\iti\documents\oopday1\main.c
+	<stdio.h>
+	"string.h"
+

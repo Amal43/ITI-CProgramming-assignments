@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672092946 source:c:\users\iti\documents\dayfive\main.cpp
+	<iostream>
+	"Trainee.h"
+
+1672095303 c:\users\iti\documents\dayfive\trainee.h
+
